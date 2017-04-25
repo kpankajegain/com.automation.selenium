@@ -1,6 +1,5 @@
 package com.automation.selenium;
 
-//Sayali Temp Test
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
