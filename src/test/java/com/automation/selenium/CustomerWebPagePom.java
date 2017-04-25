@@ -107,7 +107,11 @@ public class CustomerWebPagePom {
 			//Assert.assertEquals("Start Chat", logovalue);	 
 		}
 		
+<<<<<<< HEAD
 		// This function will check that all the fields are visible on the customer web form 
+=======
+		// This function will check that all the fields are visible on the available customer web form 
+>>>>>>> origin/master
 		public void fn_CheckVisibleFields()
 		{
 			 boolean closebuttonPresence=driver.findElement(CloseChatButton).isDisplayed();
