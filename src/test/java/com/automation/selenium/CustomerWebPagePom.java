@@ -13,7 +13,7 @@ public class CustomerWebPagePom {
 	
 	WebDriver driver;
 	
-	// The xpaths of all the Webelements displayed on Customer web page are stored here
+	// The xpaths of all the Webelements displayed on Customer web page are stored here, will used.
 	
 	By LiveChat=By.xpath("//div/img[@src='chat/img/logo_new.png']");
 	
@@ -127,6 +127,6 @@ public class CustomerWebPagePom {
 			 System.out.println("Your Qusetoion field is present on web form");
 			 boolean SubmitButtonField=driver.findElement(StartChatButton).isDisplayed();
 			 System.out.println(StartChatButton);
-			 System.out.println("Start chat button is present on web form");
+			 System.out.println("Start chat button is present on customer web form");
 		}	
 }
