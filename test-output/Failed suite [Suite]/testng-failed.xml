@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Failed suite [Suite]]" parallel="tests">
+  <test name="fn_InvalidLogin(failed)(failed)" parallel="tests">
+    <classes>
+      <class name="com.egain.agent.logintestcases.TC_5_VerifyLoginFailed">
+        <methods>
+          <include name="init"/>
+          <include name="fn_InvalidLogin"/>
+        </methods>
+      </class> <!-- com.egain.agent.logintestcases.TC_5_VerifyLoginFailed -->
+    </classes>
+  </test> <!-- fn_InvalidLogin(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

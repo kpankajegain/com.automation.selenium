@@ -1,0 +1,7 @@
+ChromeDriver=D:\\QAWorkspace\\driver\\chromedriver.exe
+
+IEDriver=D:\\QAWorkspace\\driver\\IEDriverServer.exe
+
+AgentConsoleURL=http://ussuhvin0072.egeng.info/system/web/apps/agent/#work
+
+ChatURL=http://punv730r.egeng.info/system/templates/chat/kiwi/chat.html?entryPointId=1000&templateName=kiwi&languageCode=en&countryCode=US&ver=v11
